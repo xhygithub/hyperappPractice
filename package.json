@@ -5,5 +5,7 @@
   "repository": "https://github.com/xhygithub/hyperappPractice.git",
   "author": "xiehaiyan <hyxie@thoughtworks.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "hyperapp": "^1.2.6"
+  }
 }
