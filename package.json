@@ -4,5 +4,6 @@
   "main": "index.js",
   "repository": "https://github.com/xhygithub/hyperappPractice.git",
   "author": "xiehaiyan <hyxie@thoughtworks.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
