@@ -1,0 +1,8 @@
+{
+  "name": "hyperappPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xhygithub/hyperappPractice.git",
+  "author": "xiehaiyan <hyxie@thoughtworks.com>",
+  "license": "MIT"
+}
